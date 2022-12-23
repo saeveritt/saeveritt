@@ -13,7 +13,7 @@ What am I up to?
 <div align="center">
 🔭 I’m currently working on porting the Peercoin C++ repository to Go <br>
 👯 I’m always available to contribute to open-source projects<br>
-Peercoin team member 🌱
+Peercoin team member and Foundation Co-Founder 🌱
 </div>
 <h1 align="center">
 Favorite OS
