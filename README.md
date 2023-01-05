@@ -3,10 +3,6 @@
 Welcome to the land of the ✨ _lost_ ✨
 </h1>
 
-<p align="center">
-<img src="https://c.tenor.com/g0O71yszHeEAAAAi/ultrakillnatan.gif" style="padding-left:150%;"/>
-</p>
-
 <h1 align="center">
 What am I up to?
 </h1>
